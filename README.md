@@ -53,8 +53,8 @@ If you prefer manual installation or are using a different operating system:
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/bufanoc/arista-web-commander
+cd arista-web-commander
 
 # Install dependencies
 npm install
@@ -119,8 +119,8 @@ Clone this repo and push changes. Pushed changes will also be reflected in Lovab
 Requirements: Node.js & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 ```sh
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/bufanoc/arista-web-commander
+cd arista-web-commander
 npm i
 npm run dev
 ```
