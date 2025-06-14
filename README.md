@@ -11,8 +11,8 @@ This application is developed and tested on **Ubuntu 22.04.5 Server**, which is 
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_GIT_URL>
-   cd <YOUR_PROJECT_NAME>
+   git clone https://github.com/bufanoc/arista-web-commander
+   cd arista-web-commander
    ```
 
 2. **Run the automated installation script:**
